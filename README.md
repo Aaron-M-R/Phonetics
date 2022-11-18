@@ -1,4 +1,5 @@
-# Phonetics
+# Phonetics (draft)
+
 This repository includes resources to help people learn how native speakers of American English make all the sounds of our language
 
 https://user-images.githubusercontent.com/107866201/192258203-070e4047-44f0-48df-9bfc-ee1453c3c351.MOV
